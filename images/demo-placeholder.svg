@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+  <rect width="720" height="420" rx="18" fill="#FFFFFF" stroke="#27251F" stroke-width="2"/>
+  <rect x="0" y="0" width="720" height="72" rx="18" fill="#DA291C"/>
+  <rect x="0" y="40" width="720" height="32" fill="#DA291C"/>
+  <text x="36" y="47" font-size="26" font-weight="700" fill="#FFFFFF">🍔 麦当劳早餐不重样</text>
+  <text x="36" y="110" font-size="17" fill="#27251F">你：我要麦当劳早餐不重样</text>
+
+  <rect x="36" y="130" width="648" height="150" rx="12" fill="#FFF8E1" stroke="#FFC72C" stroke-width="2"/>
+  <text x="56" y="162" font-size="15" fill="#27251F">♻️ 你最近 5 天点过「咸蛋黄鸡腿蛋月堡」，今天给你换一份</text>
+  <text x="56" y="196" font-size="16" font-weight="700" fill="#DA291C">🍔 麦满分培根蛋堡超值套餐</text>
+  <text x="56" y="222" font-size="14" fill="#27251F">（麦满分 + 醇香奶咖 + 薯饼）</text>
+  <text x="56" y="252" font-size="16" font-weight="700" fill="#27251F">💰 ¥15.9　</text>
+  <text x="150" y="252" font-size="14" fill="#27251F">（已帮你用上早餐券）</text>
+
+  <rect x="36" y="300" width="200" height="40" rx="20" fill="#27251F"/>
+  <text x="70" y="326" font-size="15" fill="#FFFFFF">✅ 回复「下单」确认</text>
+
+  <text x="36" y="378" font-size="13" fill="#8a8a8a">— 实际使用效果占位图，录好真实对话截图/GIF 后替换本图 —</text>
+</svg>
